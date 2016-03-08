@@ -2,6 +2,7 @@ name: mrp-test
 favicon: null
 layout_spectrum: 0.10980937187559903
 typography_spectrum: 0.6780324305873364
+title: MRP Test 1
 cta:
   domain: null
   bucket: null
